@@ -1,84 +1,56 @@
-# Estrutura Recomendada do Projeto
+# Fernando Lima DEV - Portfólio Profissional
 
-FernandoLimaDEV/
-├── index.html                # Página principal do portfólio
-├── projects.html             # Página de projetos
-├── style.css                 # CSS global (separado do restante)
-├── assets/
-│   ├── css/
-│   │   ├── main.css
-│   │   ├── profile.css
-│   │   ├── projects.css
-│   │   ├── contact.css
-│   │   └── tech-grid.css
-│   ├── js/
-│   │   ├── main.js
-│   │   ├── util.js
-│   │   ├── photo-upload.js
-│   │   └── carousel.js
-│   ├── imagens/
-│   │   ├── profile.jpg
-│   │   ├── img-fundo.avif
-│   │   ├── capa.jpg
-│   │   ├── FLD veiculos.png
-│   │   ├── habilidades.png
-│   │   ├── qr_code_png.jpg
-│   │   ├── qr-calculadora.png
-│   │   ├── qr-TechPoint.png
-│   │   └── ... (outras imagens)
-│   ├── webfonts/
-│   │   └── ... (arquivos de fontes)
-│   └── sass/
-│       └── ... (arquivos SASS)
-├── config/
-│   └── database.js
-├── services/
-│   └── portfolioService.js
-├── package.json
-├── package-lock.json
-├── README.txt
-├── LICENSE.txt
-└── env.example
+Bem-vindo ao portfólio de Fernando Lima, desenvolvedor full stack! Este projeto reúne meus principais trabalhos, habilidades técnicas e soft skills, apresentados de forma moderna, responsiva e interativa.
+
+## 🚀 Sobre o Projeto
+Este portfólio foi criado para destacar minha trajetória, projetos desenvolvidos e competências em tecnologia, com foco em experiência do usuário, design futurista e apresentação clara das minhas habilidades.
+
+## 🛠️ Tecnologias Utilizadas
+- HTML5, CSS3, SASS
+- JavaScript (ES6+)
+- Angular, React, Flutter (em projetos)
+- Node.js, MySQL, MongoDB (em projetos)
+- Font Awesome para ícones
+- ScrollReveal.js, animações customizadas
+- Vercel para deploy de projetos
+
+## 💡 Funcionalidades
+- **Página inicial** com apresentação, avatar e navegação intuitiva
+- **Projetos**: cards detalhados, QR Codes, links para código e demonstração
+- **Soft Skills**: carrossel animado, destaques e ícones
+- **Contato**: links para LinkedIn, GitHub, WhatsApp e e-mail
+- **Design responsivo**: visual cyberpunk, animações e efeitos modernos
+
+## 📂 Estrutura de Pastas
+```
+assets/
+  css/         # Estilos principais
+  imagens/     # Imagens e QR Codes dos projetos
+  js/          # Scripts e animações
+config/        # Configurações (ex: database.js)
+services/      # Serviços JS
+index.html     # Página inicial
+projects.html  # Projetos
+softskills.html# Soft Skills
+```
+
+## ▶️ Como Usar
+1. Clone ou baixe este repositório.
+2. Abra o arquivo `index.html` no navegador para visualizar o portfólio.
+3. Navegue pelas páginas de projetos e soft skills.
+4. Clique nos QR Codes ou links para acessar demonstrações e repositórios dos projetos.
+
+## 🌐 Links Importantes
+- [LinkedIn](https://www.linkedin.com/in/fernando-fullstackdev)
+- [GitHub](https://github.com/fernando7kyna)
+- [WhatsApp](https://wa.me/5561993700437)
+
+## 📧 Contato
+Para oportunidades, dúvidas ou parcerias:
+- E-mail: fernandolinadev17@gmail.com
+- LinkedIn: [fernando-fullstackdev](https://www.linkedin.com/in/fernando-fullstackdev)
+- WhatsApp: +55 61 99370-0437
 
 ---
 
-# Instruções do Projeto
-
-Highlights by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-
-
-Just a fun little single pager I whipped up to test out my new scroll events plugin
-(github.com/ajlkn/jquery.scrollex). Clean, simple, fully responsive, and loaded with
-all the usual pre-styled elements. Enjoy :)
-
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
-
-(* = Not included)
-
-Feedback, bug reports, and comments are not only welcome, but strongly encouraged :)
-
-AJ
-aj@lkn.io | @ajlkn
-
-PS: Not sure how to get that contact form working? Give formspree.io a try (it's awesome).
-
-
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)[
-
-			roda projeto 
-			npx serve .
-		]
+Desenvolvido com dedicação por Fernando Lima DEV. Todos os direitos reservados.
